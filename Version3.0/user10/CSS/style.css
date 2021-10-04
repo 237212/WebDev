@@ -19,3 +19,15 @@ th {
 	color: #ffffff;
 	background-color: #7e7e7e;
 }
+
+ul {
+	text-align: center;
+	border-collapse: collapse;
+	border: 1px double #7e7e7e
+  }
+
+  ol {
+	  text-align: center;
+	  border-collapse: collapse;
+	border: 1px double #7e7e7e
+  }
